@@ -14,5 +14,4 @@ This application is similar to youtube application where user can
 
 
 ## Check it out ##
-
-[URL](https://nxt-watch.onrender.com/)
+(https://nxt-watch.onrender.com/)
