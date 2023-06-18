@@ -2,8 +2,6 @@
 
 ### A Real time youtube application clone 
 
-
-
 This application is similar to youtube application where user can 
 
 * Login with creditials {(default) => username : rahul ; password : rahul@2021}
@@ -15,10 +13,6 @@ This application is similar to youtube application where user can
 * search and many more 
 
 
-
-
-
 ## Check it out ##
 
-
-[URL](https://sai-youtube.netlify.app)
+[URL](https://nxt-watch.onrender.com/)
