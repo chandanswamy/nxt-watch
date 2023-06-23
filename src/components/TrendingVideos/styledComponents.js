@@ -1,7 +1,7 @@
 import styled from 'styled-components'
 
 export const TrendingContainer = styled.div`
-  background-color: ${props => props.bgColor};
+  background-color: ${props => props.barColor};
   min-height: 100vh;
   margin-top: 60px;
   margin-bottom: 60px;
@@ -16,8 +16,9 @@ export const TrendingVideoTitle = styled.div`
   align-items: center;
 `
 export const TitleIconContainer = styled.div`
-  width: 40px;
-  height: 40px;
+  width: 60px;
+  height: 60px;
+  background-color: ${props => props.bgColor};
   border-radius: 80px;
   margin-left: 10px;
   margin-right: 10px;
